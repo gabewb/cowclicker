@@ -1,0 +1,6 @@
+#node packages are stored here
+node_modules
+
+# vim
+*.swp
+

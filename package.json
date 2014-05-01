@@ -1,0 +1,28 @@
+{
+  "name": "cowclicker",
+  "version": "0.0.0",
+  "description": "cowclicker ==========",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.1.1",
+    "logfmt": "^1.1.2",
+    "underscore": "^1.6.0"
+  },
+  "engines": {
+    "node": "0.10.26",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabewb/cowclicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabewb/cowclicker/issues"
+  },
+  "homepage": "https://github.com/gabewb/cowclicker"
+}
